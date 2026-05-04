@@ -53,7 +53,7 @@ main{
     align-items: center;
 }
 
-.final{
+.footer{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
